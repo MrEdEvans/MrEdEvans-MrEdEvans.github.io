@@ -1,6 +1,6 @@
 baseURL = "https://MrEdEvans.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site - V2.0.3"
+title = "My New Hugo Site - V1.0.0"
 theme = "ananke"
 publishDir = "docs"
 relativeURLs = true
