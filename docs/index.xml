@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site - V2</title>
+    <link>https://MrEdEvans.github.io/</link>
+    <description>Recent content on My New Hugo Site - V2</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://MrEdEvans.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://MrEdEvans.github.io/projects/</link>
+      <pubDate>Wed, 09 Oct 2024 10:00:00 +0000</pubDate>
+      <guid>https://MrEdEvans.github.io/projects/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

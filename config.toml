@@ -1,0 +1,4 @@
+baseURL = "https://MrEdEvans.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site - V2"
+publishDir = "docs"
