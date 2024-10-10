@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site - V2.0.1</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 12:45:18 -0700</lastBuildDate>
     <atom:link href="https://MrEdEvans.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tic Tac Toe</title>
+      <link>https://MrEdEvans.github.io/tic-tac-toe/</link>
+      <pubDate>Thu, 10 Oct 2024 12:45:18 -0700</pubDate>
+      <guid>https://MrEdEvans.github.io/tic-tac-toe/</guid>
+      <description>&lt;h1 id=&#34;tic-tac-toe-game&#34;&gt;Tic Tac Toe Game&lt;/h1&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
     <item>
       <title>Projects</title>
       <link>https://MrEdEvans.github.io/projects/</link>
