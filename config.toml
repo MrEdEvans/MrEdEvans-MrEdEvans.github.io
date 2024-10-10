@@ -4,3 +4,7 @@ title = "My New Hugo Site - V2.0.1"
 theme = "ananke"
 publishDir = "docs"
 relativeURLs = true
+
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
