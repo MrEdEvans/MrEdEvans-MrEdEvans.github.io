@@ -9,5 +9,5 @@ draft: false
 
 <div id="game-board"></div>
 
-<script src="/js/game.js"></script>
+<script src="/js/tic-tac-toe.js"></script>
 <link rel="stylesheet" href="/css/style.css">
