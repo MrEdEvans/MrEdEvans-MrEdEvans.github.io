@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site - V2.0.1</title>
+    <title>My New Hugo Site - V2.0.2</title>
     <link>https://MrEdEvans.github.io/</link>
-    <description>Recent content on My New Hugo Site - V2.0.1</description>
+    <description>Recent content on My New Hugo Site - V2.0.2</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 12:45:18 -0700</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Thu, 10 Oct 2024 12:45:18 -0700</pubDate>
       <guid>https://MrEdEvans.github.io/tic-tac-toe/</guid>
       <description>&lt;h1 id=&#34;tic-tac-toe-game&#34;&gt;Tic Tac Toe Game&lt;/h1&gt;&#xA;&lt;div id=&#34;game-board&#34;&gt;&lt;/div&gt;&#xA;&lt;script src=&#34;./js/tic-tac-toe.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;./css/style.css&#34;&gt;</description>
+    </item>
+    <item>
+      <title>Blackjack Game</title>
+      <link>https://MrEdEvans.github.io/blackjack/</link>
+      <pubDate>Thu, 10 Oct 2024 12:17:00 +0000</pubDate>
+      <guid>https://MrEdEvans.github.io/blackjack/</guid>
+      <description>&lt;h1 id=&#34;blackjack-game-v100&#34;&gt;Blackjack Game V1.0.0&lt;/h1&gt;&#xA;&lt;div id=&#34;blackjack-game&#34;&gt;&lt;/div&gt;&#xA;&lt;script src=&#34;./js/blackjack.js&#34;&gt;&lt;/script&gt;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;./css/blackjack.css&#34;&gt;</description>
     </item>
     <item>
       <title>Projects</title>
